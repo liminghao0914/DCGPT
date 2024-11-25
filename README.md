@@ -1,7 +1,3 @@
-Certainly! Creating a README for a project similar to FinGPT, but tailored to your own project, DCGPT (let's assume it stands for "Data-Centric GPT"), involves adapting the structure and content to fit the specifics of your project. Here's a template you can use, inspired by the FinGPT README:
-
----
-
 # DCGPT: Open-Source Data-Centric Large Language Models
 
 <!-- [![Downloads](https://static.pepy.tech/badge/dcgpt)](https://pepy.tech/project/dcgpt) -->
@@ -50,7 +46,7 @@ Try the [DCGPT-QA demo](https://your-demo-link) with our platform.
   <img src="https://contrib.rocks/image?repo=liminghao0914/dcgpt" />
 </a>
 
-## News
+<!-- ## News -->
 <!-- - **[Your Latest News Article]**: [DCGPT featured in AI Weekly](https://aiweekly.com/your-article). -->
 
 ## Citing DCGPT
@@ -66,3 +62,4 @@ Try the [DCGPT-QA demo](https://your-demo-link) with our platform.
 ```
 
 ## LICENSE
+[GPL-3.0 license](LICENSE)
