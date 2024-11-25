@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<img align="center" src="dcgpt_logo.png" width="40%"/>
+<img align="center" src="imgs/dcgpt_logo.png" width="40%"/>
 </div>
 
 ## Overview
