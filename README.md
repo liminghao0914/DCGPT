@@ -2,7 +2,6 @@
 
 <!-- [![Downloads](https://static.pepy.tech/badge/dcgpt)](https://pepy.tech/project/dcgpt) -->
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
-[![PyPI](https://img.shields.io/pypi/v/dcgpt.svg)](https://pypi.org/project/dcgpt/)
 ![License](https://img.shields.io/github/license/liminghao0914/DCGPT)
 
 
