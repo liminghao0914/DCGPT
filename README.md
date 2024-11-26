@@ -30,6 +30,7 @@ Our goal is to provide a user friendly platform and an open-source community for
 Fill the [form](https://forms.gle/YCVbxvUiWrdgjUvN6) to apply [DCGPT demo](http://1.dgx.withcap.org:7860) with our platform.
 
 ### DCGPT-QA
+This appilication provides comprehensive and accurate responses to questions in data center domain. It serves as an invaluable tool for users seeking information or solutions related to data center operations, maintenance, and sustainability.
 
 <img src="imgs/sceenshot.png">
 
