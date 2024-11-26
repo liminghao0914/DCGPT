@@ -12,7 +12,7 @@
 ## Overview
 
 DCGPT is an open-source large language model (LLM) project focusing on data centers. 
-Our goal is to provide a user friendly platform and an open-source community for data center practitioners and researchers to share the trending data center information.
+Our goal is to provide a user-friendly platform and an open-source community for data center practitioners and researchers to share trending data center information.
 
 ## What's New
 - **[Model Release] Aug, 2024**: Introducing [DCGPT](https://huggingface.co/minghao14/dcgpt)! 
@@ -26,10 +26,10 @@ Our goal is to provide a user friendly platform and an open-source community for
 **3. Customized Solutions:** Given its specific focus, DCGPT is better positioned to provide solutions customized to the needs of data center professionals. This includes optimization strategies, best practices, troubleshooting, and sustainability measures that are unique to data centers.
 
 ## DCGPT Applications
-Fill the [form](https://forms.gle/YCVbxvUiWrdgjUvN6) to apply [DCGPT demo](http://1.dgx.withcap.org:7860) with our platform.
+To apply for a [DCGPT demo](http://1.dgx.withcap.org:7860) on our platform, please complete the [application form](https://forms.gle/YCVbxvUiWrdgjUvN6).
 
 ### DCGPT-QA
-This appilication provides comprehensive and accurate responses to questions in data center domain. It serves as an invaluable tool for users seeking information or solutions related to data center operations, maintenance, and sustainability.
+This application provides comprehensive and accurate responses to questions in data center domain. It serves as an invaluable tool for users seeking information or solutions related to data center operations, maintenance, and sustainability.
 
 <img src="imgs/sceenshot.png">
 
