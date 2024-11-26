@@ -1,7 +1,7 @@
 # DCGPT: Open-Source Data-Centric Large Language Models
 
 <!-- [![Downloads](https://static.pepy.tech/badge/dcgpt)](https://pepy.tech/project/dcgpt) -->
-[![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
+[![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 [![PyPI](https://img.shields.io/pypi/v/dcgpt.svg)](https://pypi.org/project/dcgpt/)
 ![License](https://img.shields.io/github/license/YourUsername/dcgpt.svg?color=brightgreen)
 
@@ -27,11 +27,16 @@ Our goal is to provide a user friendly platform and an open-source community for
 **3. Customized Solutions:** Given its specific focus, DCGPT is better positioned to provide solutions customized to the needs of data center professionals. This includes optimization strategies, best practices, troubleshooting, and sustainability measures that are unique to data centers.
 
 ## DCGPT Applications
+Fill the [form](https://forms.gle/YCVbxvUiWrdgjUvN6) to apply [DCGPT demo](http://1.dgx.withcap.org:7860) with our platform.
 
 ### DCGPT-QA
 
-Try the [DCGPT-QA demo](https://your-demo-link) with our platform.
+<img src="imgs/sceenshot.png">
 
+### DCGPT-Docs
+
+This application allows users to upload files. Our dcgpt, through learning massive data center related information, provides insights for the development of future sustainable data center.
+<img src="imgs/docs.png">
 
 <!-- ## Tutorials -->
 
