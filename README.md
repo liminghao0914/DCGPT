@@ -15,7 +15,7 @@ DCGPT is an open-source large language model (LLM) project focusing on data cent
 Our goal is to provide a user friendly platform and an open-source community for data center practitioners and researchers to share the trending data center information.
 
 ## What's New
-- **[Model Release] Aug, 2024**: Introducing [DCGPT-qa_llama3-8B_lora)](https://huggingface.co/minghao14/dcgpt)! 
+- **[Model Release] Aug, 2024**: Introducing [DCGPT](https://huggingface.co/minghao14/dcgpt)! 
 
 ## Why DCGPT?
 
