@@ -1,4 +1,4 @@
-# DCGPT: Open-Source Data-Centric Large Language Models
+# DCGPT: Open-Source Data Center Large Language Models
 
 <!-- [![Downloads](https://static.pepy.tech/badge/dcgpt)](https://pepy.tech/project/dcgpt) -->
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
